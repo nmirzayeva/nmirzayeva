@@ -1,15 +1,7 @@
 ## Hi there 👋
+I am Nurlana, an Android Developer from Baku,
 
-<!--
-**nmirzayeva/nmirzayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Jetpack Compose
+- 📫 How to reach me: nurlanamirzayev@gmail.com
+- ⚡ Fun fact: I have a YouTube channel sharing my experiences. [@nurlanamirza]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: MyMail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
